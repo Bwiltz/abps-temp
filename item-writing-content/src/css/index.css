@@ -8,6 +8,9 @@
 #ue_launcher{
     display: none !important;
 }
+.abps-logo{
+    width: 150px;
+}
 
 /*-- Text --*/
 p{
