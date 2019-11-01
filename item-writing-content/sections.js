@@ -1,5 +1,6 @@
 /* eslint-env browser, jquery */
 const sections = [
+    { slug: '00', completion: 'visited', title: 'Welcome from Dr. Brandt' },
     { slug: '01_course_introduction', completion: 'visited', title: '1 - Introduction' },
     { slug: '02', completion: 'visited', title: '2 - Section 1'  },
     { slug: '03', completion: 'visited', title: '3 - Question 1'  },
