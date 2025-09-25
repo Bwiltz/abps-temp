@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "jquery-confirm": "3.3.2",
-    "bootstrap": "3.3.7",
+    "bootstrap": "5.0.0",
     "bootstrap-less": "^3.3.8",
     "es6-promise": "^4.2.4",
     "hucklebuck": "git+ssh://git@github.com/phoenix-scitent/hucklebuck.git#master",
